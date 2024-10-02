@@ -1,3 +1,6 @@
+**NOTE: Lasso uses this for ratelimiting (through NuGet), but had to fork it to fix a bug, hence our own version**
+
+
 AspNetCoreRateLimit
 ==============
 
