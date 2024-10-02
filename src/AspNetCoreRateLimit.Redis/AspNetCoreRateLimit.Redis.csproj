@@ -2,16 +2,16 @@
 
 	<PropertyGroup>
 		<TargetFrameworks>net6.0</TargetFrameworks>
-		<Description>StackExchange Redis support for ASP.NET Core rate limiting middleware</Description>
-		<Authors>Nick Cromwell, Cristi Pufu</Authors>
-		<AssemblyName>AspNetCoreRateLimit.Redis</AssemblyName>
-		<PackageId>AspNetCoreRateLimit.Redis</PackageId>
+		<Description>StackExchange Redis support for ASP.NET Core rate limiting middleware. Modified by Lasso X</Description>
+		<Authors>Nick Cromwell, Cristi Pufu, Lasso X</Authors>
+		<AssemblyName>AspNetCoreRateLimit.Redis.Lasso</AssemblyName>
+		<PackageId>AspNetCoreRateLimit.Redis.Lasso</PackageId>
 		<PackageTags>aspnetcore;rate-limit;throttle;redis</PackageTags>
-		<PackageProjectUrl>https://github.com/stefanprodan/AspNetCoreRateLimit</PackageProjectUrl>
+		<PackageProjectUrl>https://github.com/lasso-x/AspNetCoreRateLimit</PackageProjectUrl>
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
 		<RepositoryType>git</RepositoryType>
-		<RepositoryUrl>https://github.com/stefanprodan/AspNetCoreRateLimit</RepositoryUrl>
-		<Version>2.0.0</Version>
+		<RepositoryUrl>https://github.com/lasso-x/AspNetCoreRateLimit</RepositoryUrl>
+		<Version>2.0.3</Version>
 		<SignAssembly>true</SignAssembly>
 		<AssemblyOriginatorKeyFile>../../sgKey.snk</AssemblyOriginatorKeyFile>
 		<DelaySign>false</DelaySign>
